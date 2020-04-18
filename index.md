@@ -1,48 +1,31 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Christopher R Suchocki's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Christopher R Suchocki
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href=LinkedIn>https://www.linkedin.com/in/chrissuchocki/</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
 ### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Responses and adaptations of calcifying, reef building organism to climate change and ocean acidification. Specifically, how this knwoeldge canvand can be applied to the protection and restoration of threatened reef ecosystems around the globe.
+Calcifier biology, reef ecology, climate change, ocean acidification, refugia, stress tolerance, adaptation/evolution
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015 - 2017`
+**Master of Science: Freshwater Science and Technology**
+University of Wisconsin - Milwaukee School of Freshwater Sciences
+   Thesis: _Understanding the Role of Phototaxis in the Initial Swim Bladder Inflation of Yellow Perch_
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2009 - 2014`
+**Bachelor of Science: Biolgical Sciences**
+ University of Wisconsin - Milwaukee
 
 
-
-## Awards
+## Professional Experience
 
 `2012`
 President, *Royal Society*, London, UK
